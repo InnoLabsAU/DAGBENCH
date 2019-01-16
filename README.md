@@ -150,6 +150,6 @@ IOTA, Nano and Byteball are supppoted now.
 
 In this layer, DAG network is set and configuration files are defined. The detailed instruction on environment setup for IOTA, Nano and Byteball are listed below:
 
-* IOTA setup: https://gitlab.com/tbsx3_sydney/dagbench/tree/master/network/iota
-* Byteball setup: https://gitlab.com/tbsx3_sydney/dagbench/tree/master/network/byteball
-* Nano setup: https://gitlab.com/tbsx3_sydney/dagbench/tree/master/network/nano
+* IOTA setup: ./network/iota
+* Byteball setup: ./network/byteball
+* Nano setup: ./network/nano
