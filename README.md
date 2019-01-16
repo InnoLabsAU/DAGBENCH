@@ -78,7 +78,7 @@ We conducted an evaluation of the three DAG solutions with the DAGBENCH.
    ```bash
    $ npm install node-gyp -g
    ```
-   * Byteball network initiation is not integrated, if you want to test with Byteball network, please first build the network from here: https://gitlab.com/tbsx3_sydney/dagbench/tree/master/network/byteball. Then run DAGBENCH evaluation tool.
+   * Byteball network initiation is not integrated, if you want to test with Byteball network, please first build the network from here: ./network/byteball. Then run DAGBENCH evaluation tool.
 
 4. install npm packages
    ```bash
