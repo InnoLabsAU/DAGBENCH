@@ -1,0 +1,32 @@
+{
+  "name": "dagbench",
+  "version": "1.0.0",
+  "description": "DAG performance evaluation tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/tbsx3_sydney/dagbench.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/tbsx3_sydney/dagbench/issues"
+  },
+  "homepage": "https://gitlab.com/tbsx3_sydney/dagbench#readme",
+  "dependencies": {
+    "@iota/converter": "^1.0.0-beta.8",
+    "@iota/core": "^1.0.0-beta.8",
+    "@iota/extract-json": "^1.0.0-beta.8",
+    "bitcore-mnemonic": "^1.7.0",
+    "byteball": "^0.1.2",
+    "byteballcore": "^0.2.93",
+    "csv-writer": "^1.2.0",
+    "headless-byteball": "^0.1.0",
+    "minimist": "^1.2.0",
+    "raiblocks-client": "^1.0.0",
+    "wif": "^2.0.6"
+  }
+}
